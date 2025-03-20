@@ -46,26 +46,25 @@ This project models exam scheduling as a graph coloring problem. It uses the Wel
 
 
 ## How to Run the Code
-	1.	**Install Dependencies:**
-		Ensure you have the following Python libraries installed:
-			pip install streamlit networkx plotly pandas matplotlib 
-	2.	**Run the App: **
-		Save the code in a file named app.py and run it using Streamlit: 
-			streamlit run app.py 
-	3.	**Interact with the App:**
-		Open the app in your web browser.
-		Follow the instructions in the sidebar to input data and customize the visualization.
-		Use the interactive editor to adjust the schedule and validate it.
+	1.	Install Dependencies:
+		-> Ensure you have the following Python libraries installed:
+			-> pip install streamlit networkx plotly pandas matplotlib 
+	2.	Run the App: 
+		-> Save the code in a file named app.py and run it using Streamlit: 
+			-> streamlit run app.py 
+	3.	Interact with the App:
+		-> Open the app in your web browser.
+		-> Follow the instructions in the sidebar to input data and customize the visualization.
+		-> Use the interactive editor to adjust the schedule and validate it.
 
 ## Example
+Input:
+	> Enter the number of students: 2
+	> Enter courses for Student 1: Math, Science
+	> Enter courses for Student 2: Science, History
 
-**Input:**
-	Enter the number of students: 2
-	Enter courses for Student 1: Math, Science
-	Enter courses for Student 2: Science, History
-
-**Output:**
-	The chromatic number (minimum number of days) is: 2
-	Course Math is assigned to Day 1 = #F0F8FF
-	Course Science is assigned to Day 2 = #FAEBD7
-	Course History is assigned to Day 1 = #F0F8FF
+Output:
+	> The chromatic number (minimum number of days) is: 2
+	> Course Math is assigned to Day 1 = #F0F8FF
+	> Course Science is assigned to Day 2 = #FAEBD7
+	> Course History is assigned to Day 1 = #F0F8FF
