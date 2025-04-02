@@ -166,7 +166,7 @@ The application follows this detailed process flow:
 
 [Example in PDF format depicting the notification of conflict in the schedule](exam_scheduling_via_welsh_powell_algorithm_HANDLING_CONFLICT.pdf)
 
-[Example in PDF format depicting the validation of the schedule edited by the user](exam_scheduling_via_welsh_powell_algorithm_VALIDATING_EDITED_SCHEDULE.pdf.pdf)
+[Example in PDF format depicting the validation of the schedule edited by the user](exam_scheduling_via_welsh_powell_algorithm_VALIDATING_EDITED_SCHEDULE.pdf)
 
 [Example in PDF format depicting the user's choice to export the edited schedule as a CSV file](exam_scheduling_via_welsh_powell_algorithm_EXPORTING_CSV.pdf)
 
