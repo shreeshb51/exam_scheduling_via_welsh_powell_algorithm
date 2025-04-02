@@ -12,7 +12,7 @@ A Streamlit web application that solves the exam scheduling problem using graph 
   - [Problem Formulation](#problem-formulation)
   - [Welsh Powell Algorithm](#welsh-powell-algorithm)
   - [Process Flow](#process-flow)
-- [Examples/Demos](#examplesdemos)
+- [Examples](#examples)
 - [References](#references)
 - [Dependencies](#dependencies)
 - [Algorithms/Mathematical Concepts Used](#algorithmsmathematical-concepts-used)
@@ -151,7 +151,7 @@ The application follows this detailed process flow:
    - Export the validated schedule to CSV format
    - Provide visual confirmation of successful scheduling
 
-## Examples/Demos
+## Examples
 
 ### Sample Input
 1. Set number of students to 2
