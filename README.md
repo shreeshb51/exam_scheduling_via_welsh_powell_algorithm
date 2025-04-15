@@ -18,6 +18,7 @@ A Streamlit web application that solves the exam scheduling problem using graph 
 - [Algorithms/Mathematical Concepts Used](#algorithmsmathematical-concepts-used)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Note](#note)
 
 ## Installation
 To set up the project locally, follow these steps:
@@ -276,3 +277,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit team for creating an intuitive framework for interactive data applications
 - The academic community for extensive research on graph coloring applications in scheduling
 - Early users and testers who provided valuable feedback for improving the application
+
+## Note
+| AI was used to generate most of the docstrings and inline comments in the code. |
+|:--:|
