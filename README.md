@@ -1,6 +1,7 @@
 # Exam Scheduling via Welsh Powell Algorithm
 
 ## Project Description
+
 A Streamlit web application that solves the exam scheduling problem using graph coloring techniques. This tool helps educational institutions optimize their examination timetables by scheduling exams in the minimum number of days while ensuring no student has multiple exams on the same day. The application uses the Welsh Powell Algorithm (a greedy graph coloring approach) to find an efficient solution to this classic constraint satisfaction problem.
 
 ## Table of Contents
@@ -22,8 +23,8 @@ A Streamlit web application that solves the exam scheduling problem using graph 
 
 ---
 
-
 ## Installation
+
 To set up the project locally, follow these steps:
 
 1. Install individual packages:
@@ -41,6 +42,7 @@ To set up the project locally, follow these steps:
    ```
 
 ## Usage
+
 1. Access the application through your web browser (typically at http://localhost:8501 when run locally).
 
 2. Use the sidebar to configure input parameters:
@@ -158,11 +160,13 @@ The application follows this detailed process flow:
 ## Examples
 
 ### Sample Input
+
 1. Set number of students to 2
 2. For Student 1, select: Math, Physics, Computer Science
 3. For Student 2, select: Physics, Chemistry, Biology
 
 ### Expected Output
+
 - A conflict graph showing connections between courses
 - A schedule with minimum days (typically 2 days in this example)
 - Day 1: Math, Chemistry, Biology
@@ -272,6 +276,7 @@ The application follows this detailed process flow:
   - Implementation: `nx.kamada_kawai_layout(graph)`
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
@@ -282,5 +287,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Early users and testers who provided valuable feedback for improving the application
 
 ## Note
+
 | AI was used to generate most of the docstrings and inline comments in the code. |
 |:--:|
