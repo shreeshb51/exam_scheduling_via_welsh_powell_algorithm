@@ -20,6 +20,9 @@ A Streamlit web application that solves the exam scheduling problem using graph 
 - [Acknowledgments](#acknowledgments)
 - [Note](#note)
 
+---
+
+
 ## Installation
 To set up the project locally, follow these steps:
 
